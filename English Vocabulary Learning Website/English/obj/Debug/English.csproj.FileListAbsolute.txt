@@ -1,0 +1,157 @@
+E:\实训课\English\English\bin\English.dll
+E:\实训课\English\English\bin\English.pdb
+E:\实训课\English\English\bin\Business.dll
+E:\实训课\English\English\bin\DataAccess.dll
+E:\实训课\English\English\bin\Entity.dll
+E:\实训课\English\English\bin\Business.pdb
+E:\实训课\English\English\bin\DataAccess.pdb
+E:\实训课\English\English\bin\Entity.pdb
+E:\实训课\English\English\obj\Debug\English.csprojResolveAssemblyReference.cache
+E:\实训课\English\English\obj\Debug\English.dll
+E:\实训课\English\English\obj\Debug\English.pdb
+E:\大外课程\实训课\English\English\bin\English.dll
+E:\大外课程\实训课\English\English\bin\English.pdb
+E:\大外课程\实训课\English\English\bin\Business.dll
+E:\大外课程\实训课\English\English\bin\DataAccess.dll
+E:\大外课程\实训课\English\English\bin\Entity.dll
+E:\大外课程\实训课\English\English\bin\Business.pdb
+E:\大外课程\实训课\English\English\bin\DataAccess.pdb
+E:\大外课程\实训课\English\English\bin\Entity.pdb
+E:\大外课程\实训课\English\English\obj\Debug\English.csprojResolveAssemblyReference.cache
+E:\大外课程\实训课\English\English\obj\Debug\English.dll
+E:\大外课程\实训课\English\English\obj\Debug\English.pdb
+E:\VS\实训\English\English\bin\English.dll
+E:\VS\实训\English\English\bin\English.pdb
+E:\VS\实训\English\English\bin\Business.dll
+E:\VS\实训\English\English\bin\DataAccess.dll
+E:\VS\实训\English\English\bin\Entity.dll
+E:\VS\实训\English\English\bin\Business.pdb
+E:\VS\实训\English\English\bin\DataAccess.pdb
+E:\VS\实训\English\English\bin\Entity.pdb
+E:\VS\实训\English\English\obj\Debug\English.csprojResolveAssemblyReference.cache
+E:\VS\实训\English\English\obj\Debug\English.dll
+E:\VS\实训\English\English\obj\Debug\English.pdb
+C:\Users\LCWX\Desktop\English\English\obj\Debug\English.csprojResolveAssemblyReference.cache
+C:\Users\LCWX\Desktop\English\English\obj\Debug\English.dll
+C:\Users\LCWX\Desktop\English\English\bin\English.dll
+C:\Users\LCWX\Desktop\English\English\bin\English.pdb
+C:\Users\LCWX\Desktop\English\English\bin\Business.dll
+C:\Users\LCWX\Desktop\English\English\bin\DataAccess.dll
+C:\Users\LCWX\Desktop\English\English\bin\Entity.dll
+C:\Users\LCWX\Desktop\English\English\bin\Business.pdb
+C:\Users\LCWX\Desktop\English\English\bin\DataAccess.pdb
+C:\Users\LCWX\Desktop\English\English\bin\Entity.pdb
+C:\Users\LCWX\Desktop\English\English\obj\Debug\English.pdb
+E:\VS\new\English\English\bin\English.dll
+E:\VS\new\English\English\bin\English.pdb
+E:\VS\new\English\English\bin\Business.dll
+E:\VS\new\English\English\bin\DataAccess.dll
+E:\VS\new\English\English\bin\Entity.dll
+E:\VS\new\English\English\bin\Business.pdb
+E:\VS\new\English\English\bin\DataAccess.pdb
+E:\VS\new\English\English\bin\Entity.pdb
+E:\VS\new\English\English\obj\Debug\English.csprojResolveAssemblyReference.cache
+E:\VS\new\English\English\obj\Debug\English.dll
+E:\VS\new\English\English\obj\Debug\English.pdb
+C:\Users\Avalon Tang\Desktop\new\English\English\bin\English.dll
+C:\Users\Avalon Tang\Desktop\new\English\English\bin\English.pdb
+C:\Users\Avalon Tang\Desktop\new\English\English\bin\Business.dll
+C:\Users\Avalon Tang\Desktop\new\English\English\bin\DataAccess.dll
+C:\Users\Avalon Tang\Desktop\new\English\English\bin\Entity.dll
+C:\Users\Avalon Tang\Desktop\new\English\English\bin\Business.pdb
+C:\Users\Avalon Tang\Desktop\new\English\English\bin\DataAccess.pdb
+C:\Users\Avalon Tang\Desktop\new\English\English\bin\Entity.pdb
+C:\Users\Avalon Tang\Desktop\new\English\English\obj\Debug\English.csprojResolveAssemblyReference.cache
+C:\Users\Avalon Tang\Desktop\new\English\English\obj\Debug\English.dll
+C:\Users\Avalon Tang\Desktop\new\English\English\obj\Debug\English.pdb
+E:\VS\final\English 6-19\English\English\bin\English.dll
+E:\VS\final\English 6-19\English\English\bin\English.pdb
+E:\VS\final\English 6-19\English\English\bin\Business.dll
+E:\VS\final\English 6-19\English\English\bin\DataAccess.dll
+E:\VS\final\English 6-19\English\English\bin\Entity.dll
+E:\VS\final\English 6-19\English\English\bin\Business.pdb
+E:\VS\final\English 6-19\English\English\bin\DataAccess.pdb
+E:\VS\final\English 6-19\English\English\bin\Entity.pdb
+E:\VS\final\English 6-19\English\English\obj\Debug\English.csprojResolveAssemblyReference.cache
+E:\VS\final\English 6-19\English\English\obj\Debug\English.dll
+E:\VS\final\English 6-19\English\English\obj\Debug\English.pdb
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\English\bin\English.dll
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\English\bin\English.pdb
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\English\bin\Business.dll
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\English\bin\DataAccess.dll
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\English\bin\Entity.dll
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\English\bin\Business.pdb
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\English\bin\DataAccess.pdb
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\English\bin\Entity.pdb
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\English\obj\Debug\English.csprojResolveAssemblyReference.cache
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\English\obj\Debug\English.dll
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\English\obj\Debug\English.pdb
+C:\Users\Avalon Tang\Desktop\Final\English\English\bin\English.dll
+C:\Users\Avalon Tang\Desktop\Final\English\English\bin\English.pdb
+C:\Users\Avalon Tang\Desktop\Final\English\English\bin\Business.dll
+C:\Users\Avalon Tang\Desktop\Final\English\English\bin\DataAccess.dll
+C:\Users\Avalon Tang\Desktop\Final\English\English\bin\Entity.dll
+C:\Users\Avalon Tang\Desktop\Final\English\English\bin\Business.pdb
+C:\Users\Avalon Tang\Desktop\Final\English\English\bin\DataAccess.pdb
+C:\Users\Avalon Tang\Desktop\Final\English\English\bin\Entity.pdb
+C:\Users\Avalon Tang\Desktop\Final\English\English\obj\Debug\English.csprojResolveAssemblyReference.cache
+C:\Users\Avalon Tang\Desktop\Final\English\English\obj\Debug\English.dll
+C:\Users\Avalon Tang\Desktop\Final\English\English\obj\Debug\English.pdb
+E:\VS\Final\English\English\bin\English.dll
+E:\VS\Final\English\English\bin\English.pdb
+E:\VS\Final\English\English\bin\Business.dll
+E:\VS\Final\English\English\bin\DataAccess.dll
+E:\VS\Final\English\English\bin\Entity.dll
+E:\VS\Final\English\English\bin\Business.pdb
+E:\VS\Final\English\English\bin\DataAccess.pdb
+E:\VS\Final\English\English\bin\Entity.pdb
+E:\VS\Final\English\English\obj\Debug\English.csprojResolveAssemblyReference.cache
+E:\VS\Final\English\English\obj\Debug\English.dll
+E:\VS\Final\English\English\obj\Debug\English.pdb
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\English\bin\English.dll
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\English\bin\English.pdb
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\English\bin\Business.dll
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\English\bin\DataAccess.dll
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\English\bin\Entity.dll
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\English\bin\Business.pdb
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\English\bin\DataAccess.pdb
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\English\bin\Entity.pdb
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\English\obj\Debug\English.csprojResolveAssemblyReference.cache
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\English\obj\Debug\English.dll
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\English\obj\Debug\English.pdb
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\English.dll
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\English.pdb
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\Business.dll
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\DataAccess.dll
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\Entity.dll
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\Business.pdb
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\DataAccess.pdb
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\Entity.pdb
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\obj\Debug\English.csprojResolveAssemblyReference.cache
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\obj\Debug\English.dll
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\obj\Debug\English.pdb
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\English.dll
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\English.pdb
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\Business.dll
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\DataAccess.dll
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\Entity.dll
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\Business.pdb
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\DataAccess.pdb
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\Entity.pdb
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\obj\Debug\English.csprojResolveAssemblyReference.cache
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\obj\Debug\English.dll
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\obj\Debug\English.pdb
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\English.dll
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\English.pdb
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\Business.dll
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\DataAccess.dll
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\Entity.dll
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\Business.pdb
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\DataAccess.pdb
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\Entity.pdb
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\obj\Debug\English.dll
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\obj\Debug\English.pdb
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\bin\English.dll.config
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\obj\Debug\English.csproj.CoreCompileInputs.cache
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\obj\Debug\English.csprojAssemblyReference.cache
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\English\obj\Debug\English.csproj.CopyComplete

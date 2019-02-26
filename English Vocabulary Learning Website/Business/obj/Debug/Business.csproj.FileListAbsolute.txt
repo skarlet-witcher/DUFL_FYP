@@ -1,0 +1,119 @@
+E:\实训课\English\Business\bin\Debug\Business.dll
+E:\实训课\English\Business\bin\Debug\Business.pdb
+E:\实训课\English\Business\bin\Debug\DataAccess.dll
+E:\实训课\English\Business\bin\Debug\Entity.dll
+E:\实训课\English\Business\bin\Debug\DataAccess.pdb
+E:\实训课\English\Business\bin\Debug\Entity.pdb
+E:\实训课\English\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\实训课\English\Business\obj\Debug\Business.dll
+E:\实训课\English\Business\obj\Debug\Business.pdb
+E:\大外课程\实训课\English\Business\bin\Debug\Business.dll
+E:\大外课程\实训课\English\Business\bin\Debug\Business.pdb
+E:\大外课程\实训课\English\Business\bin\Debug\DataAccess.dll
+E:\大外课程\实训课\English\Business\bin\Debug\Entity.dll
+E:\大外课程\实训课\English\Business\bin\Debug\DataAccess.pdb
+E:\大外课程\实训课\English\Business\bin\Debug\Entity.pdb
+E:\大外课程\实训课\English\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\大外课程\实训课\English\Business\obj\Debug\Business.dll
+E:\大外课程\实训课\English\Business\obj\Debug\Business.pdb
+E:\VS\实训\English\Business\bin\Debug\Business.dll
+E:\VS\实训\English\Business\bin\Debug\Business.pdb
+E:\VS\实训\English\Business\bin\Debug\DataAccess.dll
+E:\VS\实训\English\Business\bin\Debug\Entity.dll
+E:\VS\实训\English\Business\bin\Debug\DataAccess.pdb
+E:\VS\实训\English\Business\bin\Debug\Entity.pdb
+E:\VS\实训\English\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\VS\实训\English\Business\obj\Debug\Business.dll
+E:\VS\实训\English\Business\obj\Debug\Business.pdb
+C:\Users\LCWX\Desktop\English\Business\bin\Debug\Business.dll
+C:\Users\LCWX\Desktop\English\Business\bin\Debug\Business.pdb
+C:\Users\LCWX\Desktop\English\Business\bin\Debug\DataAccess.dll
+C:\Users\LCWX\Desktop\English\Business\bin\Debug\Entity.dll
+C:\Users\LCWX\Desktop\English\Business\bin\Debug\DataAccess.pdb
+C:\Users\LCWX\Desktop\English\Business\bin\Debug\Entity.pdb
+C:\Users\LCWX\Desktop\English\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\LCWX\Desktop\English\Business\obj\Debug\Business.dll
+C:\Users\LCWX\Desktop\English\Business\obj\Debug\Business.pdb
+C:\Users\Avalon Tang\Desktop\new\English\Business\bin\Debug\Business.dll
+C:\Users\Avalon Tang\Desktop\new\English\Business\bin\Debug\Business.pdb
+C:\Users\Avalon Tang\Desktop\new\English\Business\bin\Debug\DataAccess.dll
+C:\Users\Avalon Tang\Desktop\new\English\Business\bin\Debug\Entity.dll
+C:\Users\Avalon Tang\Desktop\new\English\Business\bin\Debug\DataAccess.pdb
+C:\Users\Avalon Tang\Desktop\new\English\Business\bin\Debug\Entity.pdb
+C:\Users\Avalon Tang\Desktop\new\English\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Avalon Tang\Desktop\new\English\Business\obj\Debug\Business.dll
+C:\Users\Avalon Tang\Desktop\new\English\Business\obj\Debug\Business.pdb
+E:\VS\final\English 6-19\English\Business\bin\Debug\Business.dll
+E:\VS\final\English 6-19\English\Business\bin\Debug\Business.pdb
+E:\VS\final\English 6-19\English\Business\bin\Debug\DataAccess.dll
+E:\VS\final\English 6-19\English\Business\bin\Debug\Entity.dll
+E:\VS\final\English 6-19\English\Business\bin\Debug\DataAccess.pdb
+E:\VS\final\English 6-19\English\Business\bin\Debug\Entity.pdb
+E:\VS\final\English 6-19\English\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\VS\final\English 6-19\English\Business\obj\Debug\Business.dll
+E:\VS\final\English 6-19\English\Business\obj\Debug\Business.pdb
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\Business\bin\Debug\Business.dll
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\Business\bin\Debug\Business.pdb
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\Business\bin\Debug\DataAccess.dll
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\Business\bin\Debug\Entity.dll
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\Business\bin\Debug\DataAccess.pdb
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\Business\bin\Debug\Entity.pdb
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\Business\obj\Debug\Business.dll
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\Business\obj\Debug\Business.pdb
+C:\Users\Avalon Tang\Desktop\Final\English\Business\bin\Debug\Business.dll
+C:\Users\Avalon Tang\Desktop\Final\English\Business\bin\Debug\Business.pdb
+C:\Users\Avalon Tang\Desktop\Final\English\Business\bin\Debug\DataAccess.dll
+C:\Users\Avalon Tang\Desktop\Final\English\Business\bin\Debug\Entity.dll
+C:\Users\Avalon Tang\Desktop\Final\English\Business\bin\Debug\DataAccess.pdb
+C:\Users\Avalon Tang\Desktop\Final\English\Business\bin\Debug\Entity.pdb
+C:\Users\Avalon Tang\Desktop\Final\English\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Avalon Tang\Desktop\Final\English\Business\obj\Debug\Business.dll
+C:\Users\Avalon Tang\Desktop\Final\English\Business\obj\Debug\Business.pdb
+E:\VS\Final\English\Business\bin\Debug\Business.dll
+E:\VS\Final\English\Business\bin\Debug\Business.pdb
+E:\VS\Final\English\Business\bin\Debug\DataAccess.dll
+E:\VS\Final\English\Business\bin\Debug\Entity.dll
+E:\VS\Final\English\Business\bin\Debug\DataAccess.pdb
+E:\VS\Final\English\Business\bin\Debug\Entity.pdb
+E:\VS\Final\English\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\VS\Final\English\Business\obj\Debug\Business.dll
+E:\VS\Final\English\Business\obj\Debug\Business.pdb
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\Business\bin\Debug\Business.dll
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\Business\bin\Debug\Business.pdb
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\Business\bin\Debug\DataAccess.dll
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\Business\bin\Debug\Entity.dll
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\Business\bin\Debug\DataAccess.pdb
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\Business\bin\Debug\Entity.pdb
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\Business\obj\Debug\Business.dll
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\Business\obj\Debug\Business.pdb
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\bin\Debug\Business.dll
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\bin\Debug\Business.pdb
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\bin\Debug\DataAccess.dll
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\bin\Debug\Entity.dll
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\bin\Debug\DataAccess.pdb
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\bin\Debug\Entity.pdb
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\obj\Debug\Business.dll
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\obj\Debug\Business.pdb
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\bin\Debug\Business.dll
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\bin\Debug\Business.pdb
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\bin\Debug\DataAccess.dll
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\bin\Debug\Entity.dll
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\bin\Debug\DataAccess.pdb
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\bin\Debug\Entity.pdb
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\obj\Debug\Business.dll
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\obj\Debug\Business.pdb
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\bin\Debug\Business.dll
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\bin\Debug\Business.pdb
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\bin\Debug\DataAccess.dll
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\bin\Debug\Entity.dll
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\bin\Debug\DataAccess.pdb
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\bin\Debug\Entity.pdb
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\obj\Debug\Business.dll
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\obj\Debug\Business.pdb
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Business\obj\Debug\Business.csproj.CopyComplete

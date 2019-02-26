@@ -1,0 +1,51 @@
+E:\实训课\English\Entity\bin\Debug\Entity.dll
+E:\实训课\English\Entity\bin\Debug\Entity.pdb
+E:\实训课\English\Entity\obj\Debug\Entity.dll
+E:\实训课\English\Entity\obj\Debug\Entity.pdb
+E:\实训课\English\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\大外课程\实训课\English\Entity\bin\Debug\Entity.dll
+E:\大外课程\实训课\English\Entity\bin\Debug\Entity.pdb
+E:\大外课程\实训课\English\Entity\obj\Debug\Entity.dll
+E:\大外课程\实训课\English\Entity\obj\Debug\Entity.pdb
+E:\大外课程\实训课\English\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\VS\实训\English\Entity\bin\Debug\Entity.dll
+E:\VS\实训\English\Entity\bin\Debug\Entity.pdb
+E:\VS\实训\English\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\VS\实训\English\Entity\obj\Debug\Entity.dll
+E:\VS\实训\English\Entity\obj\Debug\Entity.pdb
+E:\VS\final\English 6-19\English\Entity\bin\Debug\Entity.dll
+E:\VS\final\English 6-19\English\Entity\bin\Debug\Entity.pdb
+E:\VS\final\English 6-19\English\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\VS\final\English 6-19\English\Entity\obj\Debug\Entity.dll
+E:\VS\final\English 6-19\English\Entity\obj\Debug\Entity.pdb
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\Entity\bin\Debug\Entity.dll
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\Entity\bin\Debug\Entity.pdb
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\Entity\obj\Debug\Entity.dll
+C:\Users\Avalon Tang\Desktop\final\English 6-19\English\Entity\obj\Debug\Entity.pdb
+E:\VS\Final\English\Entity\bin\Debug\Entity.dll
+E:\VS\Final\English\Entity\bin\Debug\Entity.pdb
+E:\VS\Final\English\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\VS\Final\English\Entity\obj\Debug\Entity.dll
+E:\VS\Final\English\Entity\obj\Debug\Entity.pdb
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\Entity\bin\Debug\Entity.dll
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\Entity\bin\Debug\Entity.pdb
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\Entity\obj\Debug\Entity.dll
+E:\大外课程\2018届毕业设计\第八组(邱悦 唐翔凯 芦祉彤)\Final\Japanese Learning Website\Entity\obj\Debug\Entity.pdb
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Entity\bin\Debug\Entity.dll
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Entity\bin\Debug\Entity.pdb
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Entity\obj\Debug\Entity.dll
+E:\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Entity\obj\Debug\Entity.pdb
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Entity\bin\Debug\Entity.dll
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Entity\bin\Debug\Entity.pdb
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Entity\obj\Debug\Entity.dll
+E:\大三\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Entity\obj\Debug\Entity.pdb
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Entity\bin\Debug\Entity.dll
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Entity\bin\Debug\Entity.pdb
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Entity\obj\Debug\Entity.dll
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Entity\obj\Debug\Entity.pdb
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\DUFL\大外课程\2018届毕业设计\英语词汇学习网站\Final\English Vocabulary Learning Website\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
